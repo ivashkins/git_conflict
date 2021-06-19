@@ -7,6 +7,6 @@ public class Main {
     }
 
     public static String sayHo(){
-        return "Hohoho";
+        return "Hahaha";
     }
 }
