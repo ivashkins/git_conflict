@@ -7,6 +7,7 @@ public class Main {
     }
 
     public static String sayHo(){
-        return "Ha";
+        return "HOOOOOO";
+       // return "Ha";
     }
 }
